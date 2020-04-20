@@ -1,8 +1,9 @@
 kurento-group-call 12fps 1280px
 ==================
 
-## @Author: Timothy Lam
+#### Please get permision before use 
 
+## @Author: Timothy Lam lamt3@lsbu.ac.uk
 Local Installation for kurento-group-call
 ==================
 
